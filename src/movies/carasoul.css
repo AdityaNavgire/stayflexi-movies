@@ -1,0 +1,42 @@
+@media only screen and (min-width: 800px) {
+  .bg-image {
+    width: 100%;
+    object-fit: contain;
+    height: 500px;
+    margin-bottom: 100px;
+  }
+}
+.bg-image {
+  width: 100%;
+  object-fit: contain;
+  margin-top: 100px;
+}
+
+@media only screen and (min-width: 800px) {
+  .bg-image-parent {
+    width: 100%;
+    height: 500px;
+    margin-bottom: 100px;
+  }
+}
+.bg-image-parent {
+  width: 100%;
+  margin-top: 81px;
+}
+
+@media only screen and (min-width: 800px) {
+  .movie-container {
+    display: flex;
+    gap: 20px;
+    width: 100%;
+    justify-content: center;
+    margin-top: 200px;
+  }
+}
+.movie-container {
+    display: flex;
+    gap: 20px;
+    width: 100%;
+    justify-content: center;
+    margin-top: 40px;
+}
